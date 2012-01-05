@@ -1,0 +1,11 @@
+This is an implementation of a Red-Black Tree in Java:
+
+http://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+
+A red.black tree is a type of self-balancing binary search tree, a 
+data structure used in computer science, typically to implement 
+associative arrays. 
+
+I used this to store a large set of data that had to be "auto completed" 
+over, and I didn't have the option to use a database.  This guaranteed 
+that the height of the tree stayed sane.
