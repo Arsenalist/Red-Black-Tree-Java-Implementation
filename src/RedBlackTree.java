@@ -68,7 +68,7 @@ public class RedBlackTree<T extends Comparable<T>> {
         root.parent = nil;
     }
 
-	// @param: x, The node which the lefRotate is to be performed on.
+	// @param: x, The node which the leftRotate is to be performed on.
 	// Performs a leftRotate around x.
 	private void leftRotate(RedBlackNode<T> x){
 
